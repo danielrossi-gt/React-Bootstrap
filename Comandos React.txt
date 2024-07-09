@@ -1,0 +1,7 @@
+npm create vite@latest
+npm install
+npm run dev
+
+- limpar arquivo app.jsx, app.css e index.css
+- apagar arquivos da pasta public
+- no arquivo index.html, alterar o nome do projeto e retirar links externos desnecessários
