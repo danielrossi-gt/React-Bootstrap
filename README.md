@@ -3,4 +3,5 @@
 Link : https://www.youtube.com/watch?v=waCkrUIlSTo
 
 Api de notícias : https://newsapi.org/
+
 Para rodar o app : npm run dev
